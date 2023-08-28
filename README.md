@@ -1,3 +1,4 @@
+CODE IN ORDER TO GIVE REQUEST TO START THE LOCALHOST SERVER BY THE REQUEST PROVIDED IN THE TASK
 const express = require('express');
 const app = express();
 
